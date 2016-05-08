@@ -1,5 +1,6 @@
 /* sample.c */
 #include <math.h>
+
 /* Compute the greatest common divisor */
 int gcd(int x, int y) {
     int g = y;
